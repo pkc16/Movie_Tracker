@@ -11,7 +11,7 @@ This sample application maintains data in a database using a simple GUI and allo
 
 These are the table names which can be used in the custom SQL feature.
 
-#### Libraries used
+#### External Libraries used
 - tkinter
 - sqlite3
 - pandas
